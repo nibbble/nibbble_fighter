@@ -1,37 +1,25 @@
-# nibbble_fighter
-
+# Nibbble Fighter
 ## Introduction
+Nibbble Fighter is a competitive online game where two to four players face off in a battle of intellect. Fighters clash to prove their dominance in calculus, problem-solving, and puzzle mastery, all in a high-stakes deathmatch format.
 
-Nibbble Fighter is an online and competitive game where two to four person fights to be the best in calculus, problem and puzzle solving in a deathmatch.
+The game is set in a vast digital realm filled with numbers, data, and fighters who seek to control this world—better known as the internet. The goal? Prove yourself worthy of ruling this chaotic space by outsmarting and outpacing your rivals. The more accurate and faster your solutions to the puzzles, the more damage you deal to your opponents.
 
-The game settle in a dark space composed of numbers, data, and fighters who want to control this world, commonly called the internet.
+### The Role of AI
+At the core of this digital battleground lies Ora, the Mother of the Internet, an advanced AI responsible for generating the intricate problems and puzzles that challenge the fighters. To defeat Ora and seize control of the internet, only the sharpest minds will prevail.
 
-Those people are fighting to prove that they are worthy to control the internet. All fight works the same: facing eachother, fighters are solving calculus, complex puzzle and intelectually demanding problem. The more precise your answer is, and the fastest you write it down, the more damage you will be doing to your opponents.
+## Competitive Modes
+### 1v1 Showdown
+Climb the ranks and strengthen your fighter by winning 1v1 battles. The higher you place, the better the seasonal rewards. Only the strongest will earn the chance to challenge Ora in a one-on-one duel to become the King of the Internet.
 
-### Implementation of AI
+### 2v2 Team Battles
+Train with friends and rise to the top together in thrilling 2v2 matches. Though only the best can face Ora in solo combat, teaming up is essential to mastering the battlefield and securing a spot on the Ora Network’s leaderboard.
 
-All those problems, calculus, are created by the mother of the internet, Ora, an artificial intelligence that creates those puzzle to slow down the best of the fighters in need of power to take her down.
-
-## Competitives modes
-
-### 1v1
-
-The more a fighter win matches, the more he goes up in rank and get powerful! Class yourself high for the best season rewards and more! And one day you maybe will have the chance to fight Ora, and become the king of the internet.
-
-### 2v2
-
-They say only the best of the best can fight Ora in a 1v1, but thats not a reason to not team up and train with your friends! Place yourself high in the leaderboard with your friends and be the best team in the Ora Network!
-
-## Casual and arcade modes
-
-(Need Sookyuu completion)
+### Casual and Arcade Modes
+(Pending Sookyuu Completion)
 
 ## Ora Shop
+### Centralized Shop
+Explore our collection of stylish outfits, unique attack animations, sound effects, and impact frames. Use Nibbblies to customize your fighter with gear that fits your style.
 
-### Centralized shop
-
-Get your hand on our most beautiful and classical piece of clothing, attack animations, sound effects, impact frames and more! Buy Nibbblies and get yourself a nice pair of shoes!
-
-### Decentralized shop
-
-Need something more different? Get ready to step into the Ora Market! With the $NBBB token, you can buy some of the best NFTs created by the community! Equip your character with unique clothing, weapons and more created by the Ora Network art team!
+### Decentralized Marketplace
+Looking for something more exclusive? Enter the Ora Market, where you can purchase NFTs with the $NBBB token. Here, you’ll find unique items—clothing, weapons, and more—created by the community and the Ora Network art team. Equip your fighter with one-of-a-kind gear and stand out in every battle.
