@@ -7,7 +7,7 @@ The game is set in a vast digital realm filled with numbers, data, and fighters 
 ### The Role of AI
 At the core of this digital battleground lies Ora, the Mother of the Internet, an advanced AI responsible for generating the intricate problems and puzzles that challenge the fighters. To defeat Ora and seize control of the internet, only the sharpest minds will prevail.
 
-## Competitive Modes ⚔️
+## Game Modes ⚔️
 ### 1v1 Showdown
 Climb the ranks and strengthen your fighter by winning 1v1 battles. The higher you place, the better the seasonal rewards. Only the strongest will earn the chance to challenge Ora in a one-on-one duel to become the King of the Internet.
 
