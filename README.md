@@ -15,7 +15,7 @@ Climb the ranks and strengthen your fighter by winning 1v1 battles. The higher y
 Train with friends and rise to the top together in thrilling 2v2 matches. Though only the best can face Ora in solo combat, teaming up is essential to mastering the battlefield and securing a spot on the Ora Network’s leaderboard.
 
 ### Casual and Arcade Modes
-(Pending Sookyuu Completion)
+Not feeling competitive? No problem! If you're looking for something different, explore our unique minigames. These fun, temporary challenges break away from the intense battles of the main game, offering a broader range of skill tests. Play with friends, relax, and earn exciting rewards like cosmetics and even custom attack animations !
 
 ## Ora Shop
 ### Centralized Shop
