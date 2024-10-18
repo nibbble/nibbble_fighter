@@ -1,5 +1,5 @@
 # Nibbble Fighter
-## Introduction
+## Introduction 📰
 Nibbble Fighter is a competitive online game where two to four players face off in a battle of intellect. Fighters clash to prove their dominance in calculus, problem-solving, and puzzle mastery, all in a high-stakes deathmatch format.
 
 The game is set in a vast digital realm filled with numbers, data, and fighters who seek to control this world—better known as the internet. The goal? Prove yourself worthy of ruling this chaotic space by outsmarting and outpacing your rivals. The more accurate and faster your solutions to the puzzles, the more damage you deal to your opponents.
@@ -7,7 +7,7 @@ The game is set in a vast digital realm filled with numbers, data, and fighters 
 ### The Role of AI
 At the core of this digital battleground lies Ora, the Mother of the Internet, an advanced AI responsible for generating the intricate problems and puzzles that challenge the fighters. To defeat Ora and seize control of the internet, only the sharpest minds will prevail.
 
-## Competitive Modes
+## Competitive Modes ⚔️
 ### 1v1 Showdown
 Climb the ranks and strengthen your fighter by winning 1v1 battles. The higher you place, the better the seasonal rewards. Only the strongest will earn the chance to challenge Ora in a one-on-one duel to become the King of the Internet.
 
@@ -17,7 +17,7 @@ Train with friends and rise to the top together in thrilling 2v2 matches. Though
 ### Casual and Arcade Modes
 Not feeling competitive? No problem! If you're looking for something different, explore our unique minigames. These fun, temporary challenges break away from the intense battles of the main game, offering a broader range of skill tests. Play with friends, relax, and earn exciting rewards like cosmetics and even custom attack animations !
 
-## Ora Shop
+## Ora Shop 🛍️
 ### Centralized Shop
 Explore our collection of stylish outfits, unique attack animations, sound effects, and impact frames. Use Nibbblies to customize your fighter with gear that fits your style.
 
