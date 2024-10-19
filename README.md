@@ -1,6 +1,6 @@
 # Nibbble Fighter
 
-![image](https://github.com/user-attachments/assets/bc9b3fd1-e9cc-4049-9062-b20e27ab5624)
+![image](https://github.com/user-attachments/assets/19c5e14e-ccba-484d-8b0d-27423068cc65)
 
 ## Introduction 📰
 Nibbble Fighter is a competitive online game where two to four players face off in a battle of intellect. Fighters clash to prove their dominance in calculus, problem-solving, and puzzle mastery, all in a high-stakes deathmatch format.
